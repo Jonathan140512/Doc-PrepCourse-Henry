@@ -23,3 +23,8 @@ Iniciando en Git.
 5.Apartir de ahora podemos crear nuestros archivos y proyectos
   localmente, editarlos y agregarlos a nuestro repositorio  
   local y sincronizarlo con GitHub.
+  
+6.Importante conectar la cli Linux con GitHub
+  -Comando linux:
+   # git push --set-upstream origin master
+   
