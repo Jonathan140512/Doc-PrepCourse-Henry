@@ -1,0 +1,25 @@
+Iniciando en Git.
+1.Instalar la herramienta Git para el SO local.
+  -Windows-Linux-Mac
+  -Comando linux:
+    # apt-get install git
+    # add-apt-repository ppa:git-core/ppa 
+    # apt update; apt install git
+    
+2.Verificar versión git instalada.
+  -Comando linux:
+    # git -v
+
+3.Confirmar email y usuario de repositorio remoto.
+  -Comando linux:
+    # git config --global user.email "email de usuario"
+    # git config --global user.name "nombre de usuario"
+   
+4.Inicializar repositorio local o clonar repositorio remoto.
+  -Comando linux:
+    # git init "inicializa localmente el repositorio creado"
+    # git clone "url del repositorio remoto"
+
+5.Apartir de ahora podemos crear nuestros archivos y proyectos
+  localmente, editarlos y agregarlos a nuestro repositorio  
+  local y sincronizarlo con GitHub.
