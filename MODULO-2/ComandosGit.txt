@@ -23,6 +23,10 @@ Iniciando en Git.
 5.Apartir de ahora podemos crear nuestros archivos y proyectos
   localmente, editarlos y agregarlos a nuestro repositorio  
   local y sincronizarlo con GitHub.
+  -Comandos linux:
+   # git add 'nombre del archivo'
+   # git commit -m 'comentario del commit'
+   # git push
   
 6.Importante conectar la cli Linux con GitHub
   -Comando linux:
