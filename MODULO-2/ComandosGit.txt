@@ -26,5 +26,7 @@ Iniciando en Git.
   
 6.Importante conectar la cli Linux con GitHub
   -Comando linux:
+   # git push -u origin master
    # git push --set-upstream origin master
+   
    
