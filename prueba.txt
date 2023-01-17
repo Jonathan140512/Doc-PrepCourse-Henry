@@ -1,0 +1,2 @@
+token git-cli:
+ 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
