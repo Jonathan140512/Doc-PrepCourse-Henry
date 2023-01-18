@@ -32,5 +32,6 @@ Iniciando en Git.
   -Comando linux:
    # git push -u origin master
    # git push --set-upstream origin master
+   MODIFICADO
    
    
